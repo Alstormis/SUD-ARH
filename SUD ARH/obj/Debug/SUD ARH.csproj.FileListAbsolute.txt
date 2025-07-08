@@ -1,0 +1,81 @@
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\SUD ARH.exe.config
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\SUD ARH.exe
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\SUD ARH.pdb
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Properties.Resources.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.exe
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.pdb
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.CopyComplete
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Arhiv.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.accounting.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.administrative.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.criminal.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.materials.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.complaints.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.appeal.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.civil.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Glavn.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Avtoriz.resources
+C:\Users\user\Desktop\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Zayavka.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\SUD ARH.exe.config
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\SUD ARH.exe
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\SUD ARH.pdb
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.accounting.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.administrative.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.appeal.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Arhiv.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.civil.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.complaints.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.criminal.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Glavn.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.materials.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Properties.Resources.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Zayavka.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.CopyComplete
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.exe
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.pdb
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Cit_zal.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Avtoriz.resources
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\x64\pdfium.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\x86\pdfium.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\PdfiumViewer.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\PdfiumViewer.xml
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\user\Desktop\Диплом\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.ResolveComReference.cache
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.AssemblyReference.cache
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.accounting.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.administrative.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.appeal.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Arhiv.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Cit_zal.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.civil.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.complaints.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.criminal.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Avtoriz.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Glavn.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.materials.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Properties.Resources.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD_ARH.Zayavka.resources
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.GenerateResource.cache
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.csproj.CoreCompileInputs.cache
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.exe
+D:\Учеба\1 курс\Практика\колледж\Преддипломная практика Соколинская КПР-41\SUD ARH\SUD ARH\obj\Debug\SUD ARH.pdb
